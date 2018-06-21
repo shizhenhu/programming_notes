@@ -17,3 +17,5 @@ http://www1.odn.ne.jp/haru/data-list/mark.html
 http://document.knowledgewing.com/document/column/20170228.html
 書き言葉と話し言葉
 
+https://help.pentaho.com/Documentation/6.1/0J0/0C0/000
+Pentaho documents
