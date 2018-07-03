@@ -19,3 +19,11 @@ http://document.knowledgewing.com/document/column/20170228.html
 
 https://help.pentaho.com/Documentation/6.1/0J0/0C0/000
 Pentaho documents
+
+
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#engineering-education
+a gallery of interesting jupyter notebooks
+
+圧縮センシングの資料：
+http://www.ieice.org/~netsci/wp-content/uploads/2016/05/NetSci201605_Kabashima.pdf
+http://people.ee.duke.edu/~lcarin/01580791.pdf
