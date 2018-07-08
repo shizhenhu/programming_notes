@@ -27,3 +27,7 @@ a gallery of interesting jupyter notebooks
 圧縮センシングの資料：
 http://www.ieice.org/~netsci/wp-content/uploads/2016/05/NetSci201605_Kabashima.pdf
 http://people.ee.duke.edu/~lcarin/01580791.pdf
+
+2018 tech trend
+http://cloud.idcquan.com/yzx/134456.shtml
+Cloud management as a service: Cloudability，Cloud Cruiser和Cloudyn
