@@ -6,8 +6,11 @@ JupyterLab is the next-generation user interface for Project Jupyter. It offers 
 We plan to release JupyterLab 1.0 later in 2018. The beta releases leading up to 1.0 will focus on stabilizing the extension development API, UI/UX improvements, and additional core features.
 
 Github: 
+
 ```https://github.com/jupyterlab/jupyterlab```
+
 Documents:
+
 ```http://jupyterlab.readthedocs.io/en/latest/getting_started/overview.html```
 
 Important features for me:
@@ -22,6 +25,7 @@ Easy to transfer from notebook to lab
 
 Google trend:
 https://trends.google.co.jp/trends/explore?q=jupyter%20lab
+
 https://trends.google.co.jp/trends/explore?q=jupyter%20lab,jupyter%20notebook
 
 Presentation from PyData Seattle 2017:
@@ -32,3 +36,13 @@ https://www.youtube.com/watch?v=dSjvK-Z3o3U
 
 - Trend 2 — Hybrid Cloud Solutions — Cloud to Cloud and Cloud to On-Premise Connectivity.
 https://medium.com/@Unfoldlabs/8-trends-in-cloud-computing-for-2018-d893be2d8989
+
+
+Cloudyn:
+https://www.cloudyn.com/
+
+Cloud cruiser:
+https://www.cloudcruiser.com/
+
+Cloudability:
+https://www.cloudability.com/
