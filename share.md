@@ -18,6 +18,8 @@ Important features for me:
 - Dark theme is now available (extension is no longer needed)
 - File tree: better file management
 - New implementation with better performance:  opening a 1 trillion row by 1 trillion column csv (and effortlessly scrolling left and right across the columns)	
+- Drag and drop cells
+- Window docking system with live preview
 
 Easy to transfer from notebook to lab
 - The notebook document is identical.
