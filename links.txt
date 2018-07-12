@@ -34,3 +34,6 @@ Cloud management as a service: Cloudability，Cloud Cruiser和Cloudyn
 
 hot github repos in June
 https://jaxenter.com/hot-github-repos-june-146416.html
+
+業界情報： Google cloud project podcast
+https://www.gcppodcast.com/
